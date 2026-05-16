@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2026-05-15-my-first-mod",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2026-05-15-my-first-mod.mdx",
+  "source": "@site/blog/2026-05-15-my-first-mod.mdx",
+  "title": "My First OpenGOAL \"Mod\"",
+  "description": "When I first learned about the OpenGOAL project, I was immediately excited for a couple reasons - I loved the Jak games growing up, and as a software engineer, I was curious to see the source code behind a video game engine. As a kid, I made some Flash games, Pokemon mods, custom Guitar Hero discs, etc, so I guess I was always kind of interested in building/modding games. And as I learned more about OpenGOAL, and more about the unique development of Jak 1, my fascination continued to grow.",
+  "date": "2026-05-15T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.82,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "barg",
+      "url": "https://linkedin.com/in/yangshun",
+      "page": {
+        "permalink": "/blog/authors/barg"
+      },
+      "imageURL": "https://github.com/dallmeyer.png",
+      "key": "barg"
+    }
+  ],
+  "frontMatter": {
+    "slug": "2026-05-15-my-first-mod",
+    "title": "My First OpenGOAL \"Mod\"",
+    "authors": [
+      "barg"
+    ],
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Local Multiplayer",
+    "permalink": "/blog/2026-05-16-local-multiplayer"
+  }
+}

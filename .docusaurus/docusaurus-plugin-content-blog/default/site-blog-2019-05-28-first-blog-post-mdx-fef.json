@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2026-05-15-my-first-mod",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.mdx",
+  "source": "@site/blog/2019-05-28-first-blog-post.mdx",
+  "title": "My First OpenGOAL \"Mod\"",
+  "description": "",
+  "date": "2019-05-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "barg",
+      "url": "https://linkedin.com/in/yangshun",
+      "page": {
+        "permalink": "/blog/authors/barg"
+      },
+      "imageURL": "https://github.com/dallmeyer.png",
+      "key": "barg"
+    }
+  ],
+  "frontMatter": {
+    "slug": "2026-05-15-my-first-mod",
+    "title": "My First OpenGOAL \"Mod\"",
+    "authors": [
+      "barg"
+    ],
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}
